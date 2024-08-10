@@ -1,0 +1,310 @@
+{
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "player_companions:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_root": {
+    "criteria": {
+      "adv_root": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "cosmeticarmoursmod:cosmetic_armours_achievement": {
+    "criteria": {
+      "cosmetic_armours_achievement_0": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "rats:root": {
+    "criteria": {
+      "tick": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2024-08-08 06:53:02 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/drop_rare_illager_loot": {
+    "criteria": {
+      "drop5": "2024-08-08 06:53:03 +0000",
+      "drop3": "2024-08-08 06:53:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/conveyance": {
+    "criteria": {
+      "requirement": "2024-08-08 06:53:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/updraft": {
+    "criteria": {
+      "requirement": "2024-08-08 06:53:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/light": {
+    "criteria": {
+      "requirement": "2024-08-08 06:53:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_conveyance": {
+    "criteria": {
+      "requirement": "2024-08-08 06:53:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/spellbooks/natures_wrath": {
+    "criteria": {
+      "requirement": "2024-08-08 06:53:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_updraft": {
+    "criteria": {
+      "requirement": "2024-08-08 06:53:03 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/items/spellbooks/unlock_light": {
+    "criteria": {
+      "requirement": "2024-08-08 06:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-08-08 07:23:31 +0000",
+      "minecraft:river": "2024-08-08 07:26:40 +0000",
+      "minecraft:stony_shore": "2024-08-08 07:24:59 +0000",
+      "minecraft:forest": "2024-08-08 07:23:24 +0000",
+      "minecraft:old_growth_birch_forest": "2024-08-08 06:53:04 +0000",
+      "minecraft:meadow": "2024-08-08 07:26:56 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-08-08 06:53:04 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/items/spellbooks/natures_wrath/been_to_forest": {
+    "criteria": {
+      "4": "2024-08-08 07:14:00 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2024-08-08 07:15:27 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2024-08-08 07:20:44 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2024-08-08 07:20:44 +0000"
+    },
+    "done": true
+  },
+  "gnumus:vasebreaker": {
+    "criteria": {
+      "vasebreaker": "2024-08-08 07:24:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-08-08 07:24:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "temperate_grove": "2024-08-08 07:25:02 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "temperate_grove": "2024-08-08 07:25:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2024-08-08 07:25:29 +0000",
+      "apple": "2024-08-09 04:32:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-08 07:25:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-08-09 04:35:25 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-08-09 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-08-09 04:35:41 +0000"
+    },
+    "done": true
+  },
+  "player_companions:crafting/craft_lead": {
+    "criteria": {
+      "crafting_table": "2024-08-09 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2024-08-09 04:30:15 +0000"
+    },
+    "done": true
+  },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2024-08-09 04:32:35 +0000"
+    },
+    "done": true
+  },
+  "player_companions:crafting/root": {
+    "criteria": {
+      "crafting_table": "2024-08-09 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2024-08-09 04:35:23 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-08-09 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-08-09 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,33 @@
+{
+  "__COMMENT1": "To apply this configuration to all newly generated worlds",
+  "__COMMENT2": "please place this configuration file into your config directory",
+  "__COMMENT3": "with the following name: cpm-server-default.json",
+  "player_scaling": {
+    "44156431-6473-3e2d-bb13-03766971f570": {},
+    "f6937c90-90e3-34c2-90bc-6734ac4eca71": {},
+    "d851c03f-259f-3d5e-b6b5-a65490345ba9": {},
+    "a785f9fd-deae-3bf0-981a-b6e45ad834ed": {},
+    "55da1d68-e77b-3983-b9f7-77b88cf1a9f0": {},
+    "08bc2715-12a0-3f1c-941b-cc4697ed2e47": {},
+    "deb31034-6579-3e96-93f8-681d7bb179db": {},
+    "40c83adc-64ef-3050-b476-c4145c52facf": {},
+    "44c2c44b-0932-3f1d-9e7b-d9b7cb13619b": {},
+    "98d6afcf-de3e-3724-ae5f-1db1ebacd5b6": {},
+    "07ad4957-32a0-31ba-a6fd-973429d6e10d": {}
+  },
+  "player_scaling_settings": {},
+  "scaling_settings": {
+    "motion": {},
+    "mob_visibility": {},
+    "defense": {},
+    "attack_knockback": {},
+    "flight_speed": {},
+    "step_height": {},
+    "knockback_resist": {},
+    "reach": {},
+    "health": {},
+    "attack_speed": {},
+    "attack_dmg": {}
+  },
+  "skins": {}
+}
